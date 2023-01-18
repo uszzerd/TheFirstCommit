@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sbrothers800@gmail.com
+gitID : uszzerd
